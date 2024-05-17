@@ -5,7 +5,7 @@ import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
 import SocialLinks from "./Components/SocialLinks";
 import Contact from "./Components/Contact";
-import Portfolio from './Components/Portfolio';
+import Projects from './Components/Projects';
 
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
     <Navbar/>
     <Home/>
     <About/>
-    <Portfolio/>
+    <Projects/>
     <Experience/>
     <Contact/>
     <SocialLinks/>

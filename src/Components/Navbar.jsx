@@ -15,7 +15,7 @@ const Navbar = () => {
     },
     {
       id: 3,
-      link: "portfolio",
+      link: "projects",
     },
     {
       id: 4,
@@ -57,14 +57,10 @@ const Navbar = () => {
               key={id}
               className="px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 hover:text-white duration-200"
             >
-              <ScrollLink 
-                onClick={() => setNav(!nav)}
-                to={link} 
-                smooth={true} 
-                duration={500}
-              >
-                {link}
-              </ScrollLink>
+            <ScrollLink to={link} smooth={true} duration={500} offset={-80}>
+  {link}
+</ScrollLink>
+
             </li>
           ))}
         </ul>

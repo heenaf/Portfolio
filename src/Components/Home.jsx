@@ -9,19 +9,8 @@ const Home = () => {
                 I am a Full Stack Developer
             </h2>
             <p className="text-gray-500 py-4 max-w-med">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Aliquam distinctio veniam fuga, eius optio voluptates incidunt natus veritatis culpa aliquid odit,
-                 nemo quaerat quod tenetur alias facilis doloremque nobis magni.
+                Specializing in HTML, CSS, JavaScript, and frameworks like Bootstrap, Tailwind, and React.js, I bring designs to life with creativity and precision. Let's collaborate and turn ideas into reality. Reach out, and let's build something remarkable together!
             </p>
-            
-              {/* <link 
-              to="portfolio"
-              smooth
-               duration={500} className="group text-white w-fit px-6 py-3 my-2
-               flex items-center rounded-md bg-gradient-to-r
-               from-cyan-500 to-blue-500 cursor-pointer"
-              /> */}
-            
         </div> 
       </div>
     </div>

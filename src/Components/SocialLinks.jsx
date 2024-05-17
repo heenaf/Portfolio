@@ -31,9 +31,8 @@ const SocialLinks = () => {
         {
             id: 4,
             child: (
-              <> Resume <BsFillPersonLinesFill size={30} />
-              </>
-              ),
+              <> Resume <BsFillPersonLinesFill size={30} /> </>),
+              href:'https://drive.google.com/file/d/1-RCUiHJYIFLIk3LpdLLisiCSWh6gqmuj/view?usp=sharing',
             
       },
     ];

@@ -8,13 +8,19 @@ const About = () => {
             <p className="text-4xl font-bold inline underline "> About</p>
         </div>
         <p className="text-xl mt-20">
-            My name is Heena Fathima, currently pursuing Bachelors of Engineering, in the stream of Computer Science and Engineering. Recusandae natus accusantium consequatur minus. Neque, rem unde quam amet animi impedit porro adipisci id non veritatis maxime officia sapiente illo earum!
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque minus dolorem commodi neque pariatur ipsum unde modi quia nobis officiis molestiae sed enim nostrum quis, beatae, alias quas consequatur omnis?
-            magni fuga tenetur quos quae perspiciatis vero debitis labore ab, ipsum temporibus quis. Optio, doloremque!
+        I'm a passionate Computer Science Engineering student currently in my pre-final year. 
+        With a deep-rooted enthusiasm for coding ,I'm dedicated to crafting innovative websites and projects
+         with real-world applications.
+I find joy in exploring new technologies and skills to enhance my expertise. My core focus lies in front-end development, where I specialize in leveraging tools and frameworks like HTML, CSS, JavaScript, Bootstrap, and more to bring ideas to life in the digital realm.
+
+Besides building websites, I enjoy reading books and writing poetry in my free time. I love connecting with others who share my interests, which helps me stay up-to-date with the latest in technology.
+
         </p>
         <br />
-        <p className="text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis hic facilis quos iusto officiis tempore impedit dolore enim, provident illum, rerum numquam assumenda maxime placeat blanditiis labore ipsa. Libero, dolorem?
-        Velit dignissimos corrupti porro suscipit quos dicta vel nihil cumque! Rerum nemo quod architecto quas maiores dignissimos doloribus odio repellat!
+        <p className="text-xl">I'm currently working on two exciting projects: developing an e-commerce website and collaborating on an AI-assisted gardening app. These ventures showcase my blend of creativity and functionality, highlighting my dedication to impactful solutions.
+I am committed to expanding my knowledge and skills to become a true expert in my field, and I eagerly anticipate the opportunities and challenges that lie ahead in my journey as a developer.
+
+Let's connect, collaborate, and create something extraordinary together!
         </p>
       </div>
     </div>
