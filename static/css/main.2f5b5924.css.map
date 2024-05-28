@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2f5b5924.css","mappings":"0HAKA,oBAAoB,CACpB,mBAAmB","sources":["index.css"],"sourcesContent":["\n@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap')\n\n\n@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n"],"names":[],"sourceRoot":""}
