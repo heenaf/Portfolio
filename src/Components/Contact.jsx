@@ -1,20 +1,14 @@
 import React from 'react'
 
 const Contact = () => {
-  return (
-    <div id="contact" className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen">
-    {/* "w-full h-screen bg-black p-4 text-white" */}
-      
-<div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
-    <div className="pb-8">
-        <p className="text-4xl font-bold inline border-b-2 border-gray-500">
-           Contact
-        </p>
-        <p className="py-6">
-            Submit the form below to get in touch with me
-        </p>
-    </div>
-    <div className="flex justify-center items-center">
+    return (
+      <div id="contact" className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen pt-12 pb-2">
+        <div className="flex flex-col pt-26 justify-center max-w-screen-lg mx-auto h-full">
+          <div className="pb-8 pt-24">
+            <p className="text-4xl font-bold inline border-b-2 border-gray-500 pt-8">Contact</p>
+            <p className="py-6">Submit the form below to get in touch with me</p>
+          </div>
+    <div className="flex justify-center items-center ">
         <form action="https://getform.io/f/pbqgqowb"
         method="POST"
          className="flex flex-col w-full md:w-1/2 ">
